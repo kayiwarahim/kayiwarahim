@@ -20,10 +20,6 @@
   </samp>
 </p>
 </td>
-    <td>
-<p align="center">
-  <a href=""><img src="https://nuxters.nuxt.com/__og-image__/image/Atinux/og.png" alt="Atinux on Nuxters" width="300" /></a>
-</p>
-      </td>
+    <td></td>
 </tr>
 </table>
