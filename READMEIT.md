@@ -20,6 +20,5 @@
   </samp>
 </p>
 </td>
-    <td></td>
 </tr>
 </table>
