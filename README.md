@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @kayiwarahim<br>👀 I’m interested in software development, web technologies, and data analytics.<br>🌱 I’m currently learning Laravel for backend development, Java for server-side applications, and advanced JavaScript frameworks.<br>💞️ I’m looking to collaborate on open-source projects, hackathons, and software solutions that impact education and community development.<br>📫 How to reach me through my GitHub profile or via email at kayiwarahim@gmail.com.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love solving puzzles and coding challenges in my free time!<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayiwarahim&show_icons=true&bg_color=00000000)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kayiwarahim)
