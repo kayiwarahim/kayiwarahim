@@ -1,9 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @kayiwarahim<br>👀 I’m interested in software development, web technologies, and data analytics.<br>🌱 I’m currently learning Laravel for backend development, Java for server-side applications, and advanced JavaScript frameworks.<br>💞️ I’m looking to collaborate on open-source projects, hackathons, and software solutions that impact education and community development.<br>📫 How to reach me through my GitHub profile or via email at kayiwarahim@gmail.com.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love solving puzzles and coding challenges in my free time!<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayiwarahim&show_icons=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayiwarahim&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats
+[![Felix's Github Stats](https://github-readme-stats.vercel.app/api?username=felangel&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/felangel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felangel&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kayiwarahim)
