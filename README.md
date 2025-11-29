@@ -15,3 +15,26 @@
 
 [![Rahim's Github Stats](https://github-readme-stats.vercel.app/api?username=kayiwarahim&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/felangel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayiwarahim&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# AI Context for Kayiwa Rahim
+
+## Profile
+- Name: Kayiwa Rahim
+- Location: Uganda
+- Languages: English (primary)
+- Timezone: Africa/Kampala
+- Job title: Software Engineer \| Java, React, Laravel, AL $ ML
+- About me: ...inspired to inspire...
+
+## Online Presence
+\[Gravatar Profile\]: [gravatar.com/kayiwarahim](https://gravatar.com/kayiwarahim)
+\[GitHub\]: [github.com/kayiwarahim](https://github.com/kayiwarahim)
+\[GitLab\]: [gitlab.com/kayiwarahim](https://gitlab.com/kayiwarahim)
+\[LinkedIn\]: [www.linkedin.com/in/kayiwarahim](https://www.linkedin.com/in/kayiwarahim)
+\[Pinterest\]: [www.pinterest.com/kayiwarahim](https://www.pinterest.com/kayiwarahim)
+\[Reddit\]: [www.reddit.com/user/kayiwarahim/](https://www.reddit.com/user/kayiwarahim/)
+\[Telegram\]: [t.me/kayiwarahim](https://t.me/kayiwarahim)
+\[TikTok\]: [tiktok.com/@kayiwarahim](https://tiktok.com/@kayiwarahim)
+\[X\]: [x.com/kayiwarahim](https://x.com/kayiwarahim)
+\[WordPress\]: [kayiwarahim.wordpress.com](https://kayiwarahim.wordpress.com)
