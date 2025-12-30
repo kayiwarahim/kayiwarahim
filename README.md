@@ -19,7 +19,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayiwarahim&theme=radical" width="25%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayiwarahim&theme=radical" width="25%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayiwarahim&theme=radical&utcOffset=3" width="25%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayiwarahim&theme=default" width="25%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayiwarahim&theme=radical" width="25%" />
 </p>
 
 </div>
